@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://i.pinimg.com/originals/4e/de/5a/4ede5a33c5490195b2b17466ad26d124.gif);
+    background-size: cover;
+}
+.cronometro {
+    text-align: center;
+    margin-top: 30vh;
+}
+button {
+    padding: 7px;
+    font-size: 15px;
+    font-family: fantasy;
+    border: #000 solid 2px;
+    border-radius: 20px;
+    background: #171515;
+    color: rgb(227, 222, 222);
+}
+h1 {
+    background-image: linear-gradient( to right, purple, lightblue);
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 50px;
+    font-family: fantasy;
+}
+p {
+    margin: 30px;
+    font-size: 30px;
+    font-family: fantasy;
+    color: rgb(185, 170, 170);
+}
+footer {
+    background-image: linear-gradient( to right, purple, lightblue);
+    margin-top: 240px;
+    padding: 10px;
+    font-family: arial;
+    border-bottom: solid 5px #333;
+}
